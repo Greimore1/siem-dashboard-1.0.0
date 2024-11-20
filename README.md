@@ -130,11 +130,3 @@ npm run build
 ```
 
 This will create a `build` directory with optimized production-ready files.
-
-## Contributing
-
-Contributions to improve the SIEM Dashboard are welcome. Please fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
